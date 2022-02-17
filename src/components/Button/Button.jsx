@@ -4,6 +4,7 @@ import classNames from "classnames";
 function Button(props) {
   return (
     <button
+      type="button"
       onClick={props.onClick}
       className={classNames('button', {
         'button_result': props.result,
