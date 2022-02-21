@@ -50,11 +50,11 @@ function App() {
         } else {
           setIsSelected(true);
           setCaseResult(
-            `Именительный: ${noun}
-            Родительный: ${result['родительный']}
-            Дательный: ${result['дательный']}
-            Винительный: ${result['винительный']}
-            Творительный: ${result['творительный']}
+            `Именительный: ${noun}\n
+            Родительный: ${result['родительный']}\n
+            Дательный: ${result['дательный']}\n
+            Винительный: ${result['винительный']}\n
+            Творительный: ${result['творительный']}\n
             Предложный: ${result['предложный']}`
           );
         }
@@ -125,7 +125,7 @@ function App() {
             Просклонять
           </Button>
           <div className={"result__wrapper"}>
-            {caseResult}
+            <span>{caseResult}</span>
           </div>
         </form>
       </main>

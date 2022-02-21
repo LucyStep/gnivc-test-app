@@ -56,18 +56,17 @@
 }
 
 .selector {
-    width: 320px;
-    margin: 0 auto;
-    padding: 2px 5px;
+    padding: 5px 5px;
     border-radius: 5px;
     border: 1px solid #6b6b6b;
     font-size: 20px;
 }
 
 .result__wrapper {
-    width: 300px;
-    margin-top: 40px;
+    margin-top: 50px;
     text-align: center;
     font-size: 22px;
+    line-height: 25px;
     color: #525252;
+    white-space: pre-line;
 }
