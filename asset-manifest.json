@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gnivc-test-app/static/css/main.79dbe5e6.css",
+    "main.js": "/gnivc-test-app/static/js/main.4c57df2f.js",
+    "static/media/Montserrat-Regular.ttf": "/gnivc-test-app/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/logo.png": "/gnivc-test-app/static/media/logo.a74cc154eb9a820325ef.png",
+    "index.html": "/gnivc-test-app/index.html",
+    "main.79dbe5e6.css.map": "/gnivc-test-app/static/css/main.79dbe5e6.css.map",
+    "main.4c57df2f.js.map": "/gnivc-test-app/static/js/main.4c57df2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79dbe5e6.css",
+    "static/js/main.4c57df2f.js"
+  ]
+}
