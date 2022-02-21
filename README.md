@@ -11,3 +11,5 @@
 * Установить зависимости: `npm install`;
 
 * Запустить проект на локальном сервере: `npm start`.
+
+[Ссылка на проект](https://lucystep.github.io/gnivc-test-app/)
